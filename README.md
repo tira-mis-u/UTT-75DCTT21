@@ -1,38 +1,54 @@
-<table>
+> [!IMPORTANT]
+> Phải nêu cao tác phong độc lập suy nghĩ và tự do tư tưởng.
+> Đọc tài liệu thì phải đào sâu hiểu kỹ, không tin một cách mù quáng từng câu trong sách.
+> Có vấn đề thông suốt thì mạnh dạn đề ra cho vỡ lẽ, đối với bất cứ vấn đề gì đều phải
+> đặt ra câu hỏi: "vì sao" đều phải suy nghĩ kỹ càng, xem nó có hợp với thực tế hay không,
+> tuyệt đối không nên nhắm mắt tuân theo một cách xuôi chiều. Phải suy nghĩ cho chín chắn.
+>
+> ― ***Chủ tịch Hồ Chí Minh***
+
+<h3 align="center">Ghi chú/Nhật ký/Quyển vở trong những năm tháng đại học <s>(cụ thể là tại UTT!?)</s></h3>
+<br/>
+
+<table align="center">
   <thead>
     <tr>
-      <th>Ngôn ngữ</th>
+      <th>Tech stack</th>
       <th>Trải nghiệm cá nhân</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" alt="JavaScript"></td>
-      <td>Ngôn ngữ cốt lõi của Web, dùng để phát triển frontend và backend với Node.js.</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=html,css,javascript,vscode" alt="Dev Basic Web"><br/></td>
+      <td> </td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/-C-000?&logo=C" alt="C"></td>
-      <td>Ngôn ngữ lập trình hệ thống hiệu năng cao, nền tảng của nhiều hệ điều hành và phần mềm nhúng.</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=discordjs,npm,nodejs,github" alt="Dev Basic Discord Bot"></td>
+      <td> </td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL" alt="SQL"></td>
-      <td>Ngôn ngữ truy vấn và quản lý cơ sở dữ liệu quan hệ.</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react,ts,mongodb,vercel" alt="Dynamic Web"></td>
+      <td> </td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C" alt="C++"></td>
-      <td>Ngôn ngữ hiệu năng cao dùng trong game engine, đồ họa, lập trình hệ thống và thuật toán.</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=c,cpp" alt="DSA"></td>
+      <td> </td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" alt="TypeScript"></td>
-      <td>Phiên bản mở rộng của JavaScript với hệ thống kiểu tĩnh, phù hợp cho các dự án lớn.</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=cmake,qt" alt="Qt App"></td>
+      <td> </td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python"></td>
-      <td>Ngôn ngữ đa dụng, phổ biến trong AI, Machine Learning, Data Science, Automation và Backend.</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=py,pytorch,sublime" alt="Train model AI"></td>
+      <td> </td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396" alt="Java"></td>
-      <td>Ngôn ngữ hướng đối tượng phổ biến cho ứng dụng doanh nghiệp, Android và Backend.</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=postgresql,prisma,supabase,sqlite" alt="DB"></td>
+      <td> </td>
     </tr>
   </tbody>
 </table>
+
+
+
+
