@@ -7,48 +7,27 @@
 >
 > ― ***Chủ tịch Hồ Chí Minh***
 
-<h3 align="center">Ghi chú/Nhật ký/Quyển vở trong những năm tháng đại học <s>(cụ thể là tại UTT!?)</s></h3>
 <br/>
-
 <table align="center">
   <thead>
     <tr>
-      <th>Tech stack</th>
-      <th>Trải nghiệm cá nhân</th>
+      <th>Trying to become a full-stack dev ❤️‍🔥</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=html,css,javascript,vscode" alt="Dev Basic Web"><br/></td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=discordjs,npm,nodejs,github" alt="Dev Basic Discord Bot"></td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=react,ts,mongodb,vercel" alt="Dynamic Web"></td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=c,cpp" alt="DSA"></td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=cmake,qt" alt="Qt App"></td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=py,pytorch,sublime" alt="Train model AI"></td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=postgresql,prisma,supabase,sqlite" alt="DB"></td>
-      <td> </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,md,regex"><br/>
+        <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py"><br/>
+        <img src="https://skillicons.dev/icons?i=react,threejs,discordjs,jquery,bootstrap,tensorflow"><br/>
+        <img src="https://skillicons.dev/icons?i=nodejs,npm,pnpm,yarn,vite"><br/>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,sublime,idea,cmake"><br/>
+        <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,prisma,supabase,rabbitmq"><br/>
+        <img src="https://skillicons.dev/icons?i=unity,godot,vercel,net,stackoverflow"><br/>
+      </td>
     </tr>
   </tbody>
 </table>
-
 
 
 
