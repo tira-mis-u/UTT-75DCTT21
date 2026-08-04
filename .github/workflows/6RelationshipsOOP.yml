@@ -33,7 +33,7 @@ jobs:
       - name: Upload website
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 6-relationships-oop
+          path: deploy-web
 
       - name: Deploy
         id: deployment
