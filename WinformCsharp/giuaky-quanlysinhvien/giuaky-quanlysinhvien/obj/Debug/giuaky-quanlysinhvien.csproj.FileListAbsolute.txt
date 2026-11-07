@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\giuaky-quanlysinhvien\giuaky-quanlysinhvien\bin\Debug\giuaky-quanlysinhvien.exe.config
+C:\Users\ADMIN\source\repos\giuaky-quanlysinhvien\giuaky-quanlysinhvien\bin\Debug\giuaky-quanlysinhvien.exe
+C:\Users\ADMIN\source\repos\giuaky-quanlysinhvien\giuaky-quanlysinhvien\bin\Debug\giuaky-quanlysinhvien.pdb
+C:\Users\ADMIN\source\repos\giuaky-quanlysinhvien\giuaky-quanlysinhvien\obj\Debug\giuaky-quanlysinhvien.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\giuaky-quanlysinhvien\giuaky-quanlysinhvien\obj\Debug\giuaky_quanlysinhvien.Form1.resources
+C:\Users\ADMIN\source\repos\giuaky-quanlysinhvien\giuaky-quanlysinhvien\obj\Debug\giuaky_quanlysinhvien.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\giuaky-quanlysinhvien\giuaky-quanlysinhvien\obj\Debug\giuaky-quanlysinhvien.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\giuaky-quanlysinhvien\giuaky-quanlysinhvien\obj\Debug\giuaky-quanlysinhvien.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\giuaky-quanlysinhvien\giuaky-quanlysinhvien\obj\Debug\giuaky-quanlysinhvien.exe
+C:\Users\ADMIN\source\repos\giuaky-quanlysinhvien\giuaky-quanlysinhvien\obj\Debug\giuaky-quanlysinhvien.pdb
